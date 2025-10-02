@@ -1,0 +1,10 @@
+Web of the api information:
+https://earthquake.usgs.gov/
+-------
+URL
+https://earthquake.usgs.gov/fdsnws/event/1/[METHOD[?PARAMETERS]]
+
+query
+to submit a data request. See the parameters section for supported url parameters.
+https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2014-01-01&endtime=2014-01-02
+https://earthquake.usgs.gov/fdsnws/event/1/query?format=xml&starttime=2014-01-01&endtime=2014-01-02&minmagnitude=5
